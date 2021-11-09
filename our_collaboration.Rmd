@@ -26,6 +26,6 @@ plot(cars)
 
 
 ```{r task 2}
-
+plot(cars)
 ```
 
