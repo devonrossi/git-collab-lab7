@@ -7,11 +7,16 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(here)
 ```
 
 Hi Ale, you are beautiful <3
 
 Hiiiiiii my friend!!! YOU ARE SO GORGEOUS! <3 :)
+
+### Visualization on cars data
 
 ```{r task 1}
 plot(cars)
