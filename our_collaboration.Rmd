@@ -12,3 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 Hi Ale, you are beautiful <3
 
 Hiiiiiii my friend!!! YOU ARE SO GORGEOUS! <3 :)
+
+```{r task 1}
+plot(cars)
+```
+
+
+```{r task 2}
+
+```
+
